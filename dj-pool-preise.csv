@@ -1,33 +1,41 @@
-Pool,Preis_pro_Monat,Weitere_Laufzeiten,Genre_Region,Hinweis
-Digital DJ Pool,9.99 USD,89.99 USD/Jahr,House/Electronic,Eine DE-Quelle nennt ab 7 USD
-Promo Only,12-100 USD,,Open Format (Kategorien/Pakete),Einzelne Genres ab 12 USD; DE-Quelle ca. 30 EUR
-Deutsche DJ-Playlist,0 EUR,13.80 EUR/Monat mit CD-Sampler,Deutschland,Pool kostenlos
-BPM Supreme,19.99-24.99 USD (Standard),Premium 29.99-39.99 USD; beide Bibliotheken 69.99 USD,Open Format/Latino,Quellen uneinheitlich; DE ca. 17 EUR bzw. 30 EUR
-zipDJ,19.99-50 USD,,Alle Genres (70+),Quellen uneinheitlich
-MyMP3Pool,19.95 USD,Erster Monat ca. 14.99 USD,Mainstream/Open Format,Eine Quelle nennt 19.99 USD
-Crate Connect,22 USD,Erster Monat ca. 17 USD,Open Format (80+ Genres),Kanada
-Digital Music Pool,27.99 USD,Einstieg 14.97-19.99 USD im ersten Monat,Open Format,Quellen uneinheitlich
-Masspool,27.99 USD,,Open Format,
-DJcity,19.99-34.99 USD,90 USD/3 Monate; 155-175 USD/6 Monate,Global/Hip-Hop/Open Format,DE 24-31 EUR/Monat; erster Monat 10 EUR
-Direct Music Service (DMS),29.95 USD (40 Downloads),Unbegrenzt 64.95 USD,Open Format,
-Club Killers,29.99 USD,,Hip-Hop/EDM/Latin,
-Heavy Hits,29.99 USD,Erster Monat 9.99 USD,Open Format,
-iDJ Pool,15-50 USD,500 USD/Jahr,Open Format,Quellen uneinheitlich
-Beat Junkies,35 USD,90 USD/3 Monate; 360 USD/Jahr,Hip-Hop,
-DJ Pool Records,22.99 USD,,Open Format,Preis fuer 1 Monat
-Urban DJ Pool,25 USD,,Urban,
-Latino Music Pool (LMP),25 USD,45 und 55 USD (hoehere Tarife),Latin,
-Latin Remix Pool,39.99 USD,69.99 USD (Premium); 99.99 USD (Elite),Latin,Nach Anzahl Songs gestaffelt
-All In Music Pool,20 USD (Latin); 25 USD (Club),,Latin/Club,
-Wedding DJ Pool (UK),37 GBP (1 Monat),32 GBP/Monat (3 Monate); 29 GBP/Monat (6 Monate),Hochzeit/Open Format,Grossbritannien
-Vinyl Cartel,kein Preis gefunden,,Urban UK/Europa,
-Unlimited Latin,kein Preis gefunden,,Latin,
-LatinRemixes,kein Preis gefunden,,Latin,
-Pro Latin Remix,kein Preis gefunden,,Latin,
-FRP,kein Preis gefunden,,,
-My12inch,kein Preis gefunden,,,
-ERG Music,kein Preis gefunden,,,
-Smashvision,kein Preis gefunden,,,
-Sidewinder Pool,kein Preis gefunden,,,
-Crooklyn Clan,kein Preis gefunden,,,
-Mp3 Pool Online,kein Preis gefunden,,,
+Pool,Preis_pro_Monat,Weitere_Laufzeiten,Genre_Region,Preisquelle,Hinweis
+8th Wonder,19.99 USD,219.99 USD/Jahr; erster Monat 9.99 USD,Hip-Hop/Urban (Audio+Video),Eigene Seite,
+Beezo BeeHive,kein eigener Preis gefunden,,,Nur als Release-Serie auf DJ Pool Records gelistet,
+Cicana,kein aktueller Preis,Alt: 10-15 USD (veraltetes Forum),Urban,,Laut Suche umbenannt in recordspool.com
+Dale Mas,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Latin,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+DJcity,19.99-34.99 USD,90 USD/3 Mon; 155-175 USD/6 Mon,Global/Hip-Hop/Open Format,Mehrere Quellen,DE ca. 24-31 EUR; erster Monat 10 EUR
+Digital DJ Pool,9.99 USD,89.99 USD/Jahr,House/Electronic,Eigene Seite,
+Extended Latino,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Latin,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Headliner Music Club,kein Preis gefunden,,Open Format (Promo-Releases),,
+Heavy Hitz (vermutlich Heavy Hits),29.99 USD,Erster Monat 9.99 USD,Open Format,Eigene Seite,Schreibweise Hitz/Hits unklar
+Latin Box,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Latin,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Pro Latin Remix,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Latin,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Rompe Discoteca,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Latin/Reggaeton,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Unlimited Latin,kein Preis gefunden,,Latin,Eigene Seite zeigt Preise nicht in Suchauszug,Kostenlose Probe vorhanden
+Spinback,22.99 USD,Rabatte bei 3/6/12 Monaten,Open Format,Quelle unklar (evtl. Sammelseite),
+MP3 Mixes Pool,9.95 USD,109 USD/Jahr,Mixes/Remixes,Eigene Seite,Nicht mit MyMP3Pool verwechseln
+Urban Zone,22.99 USD*,,Urban,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Cuba Remixes,29.99 USD (150 Downloads),39.99 USD (250 DL); 99.99 USD (500 DL),Latin/Cuba,Eigene Seite,
+TheMashUp (UK),20 GBP (150 Downloads),Erster Monat 9.99 GBP; Pro 60 GBP fuer 3 Mon dann 20 GBP/Mon (500 DL); 180 GBP/Jahr (1000 DL/Mon); 240 GBP/Jahr unbegrenzt,Mashups/Edits UK,Eigene Seite,
+MyMP3Pool,19.95 USD,Erster Monat ca. 14.99 USD,Mainstream/Open Format,Mehrere Quellen,
+Beat Junkies,35 USD,90 USD/3 Mon; 360 USD/Jahr,Hip-Hop,Eigene Seite,
+Digital Music Pool,27.99 USD,Einstieg 14.97-19.99 USD im ersten Monat,Open Format,Mehrere Quellen,Quellen uneinheitlich
+Direct Music Service (DMS),29.95 USD (40 Downloads),Unbegrenzt 64.95 USD,Open Format,Mehrere Quellen,
+Franchise Record Pool (FRP),19.99 USD,Anmeldegebuehr aktuell 0 (normal 50 USD),Hip-Hop/Urban,Eigene Seite,
+Mashups & Bootlegs,22.99 USD*,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Mashups,*Preis von Sammelseite DJ Pool Records,Eigenstaendiger Pool-Preis nicht gefunden
+Crate Connect,22 USD,Erster Monat ca. 17 USD,Open Format (80+ Genres),Mehrere Quellen,Kanada
+AV8 (AV8 Records),14.99 USD,39.99 USD/3 Mon (12.99/Mon); 59.99 USD/6 Mon (9.99/Mon),,Eigene Seite,
+--- Weitere Pools (nicht aus Ihrer Liste) ---,,,,,
+Promo Only,12-100 USD,,Open Format,Mehrere Quellen,DE-Quelle ca. 30 EUR
+BPM Supreme,19.99-24.99 USD (Standard),Premium 29.99-39.99; beide Bibliotheken 69.99 USD,Open Format/Latino,Mehrere Quellen,Quellen uneinheitlich
+zipDJ,19.99-50 USD,,Alle Genres (70+),Mehrere Quellen,
+Club Killers,29.99 USD,,Hip-Hop/EDM/Latin,Mehrere Quellen,
+Masspool,27.99 USD,,Open Format,Mehrere Quellen,
+iDJ Pool,15-50 USD,500 USD/Jahr,Open Format,Mehrere Quellen,
+Latino Music Pool (LMP),25 USD,45 und 55 USD,Latin,Mehrere Quellen,
+Latin Remix Pool,39.99 USD,69.99 USD; 99.99 USD,Latin,Eigene Seite,Nach Songanzahl gestaffelt
+All In Music Pool,20 USD (Latin); 25 USD (Club),,Latin/Club,Mehrere Quellen,
+Wedding DJ Pool (UK),37 GBP,32 GBP/Mon (3 Mon); 29 GBP/Mon (6 Mon),Hochzeit/Open Format,Mehrere Quellen,
+Deutsche DJ-Playlist,0 EUR,13.80 EUR/Monat mit CD-Sampler,Deutschland,Eigene Seite,
+Urban DJ Pool,25 USD,,Urban,Mehrere Quellen,
+DJ Pool Records (Sammelseite),22.99 USD,59.99/3 Mon; 107.99/6 Mon; 189.99/12 Mon,Mix vieler Serien,Eigene Seite,Rechtliche Lage ungeklaert
